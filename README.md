@@ -1,1 +1,1 @@
-# Intelligent-Inventory-Optimizing-E-Commerce-with-Data-Structures
+# Intelligent Inventory: Optimizing E-Commerce with Data Structures
